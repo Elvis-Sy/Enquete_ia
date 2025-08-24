@@ -55,7 +55,7 @@ NB : Notez bien que certaines informations concernant les suspects comme '*Mary*
 
 ## 📷 Aperçu
 
-![Aperçu de l'application](./public/images/preview.jpeg)
+![Aperçu de l'application](./frontend/public/images/preview.jpeg)
 
 
 
